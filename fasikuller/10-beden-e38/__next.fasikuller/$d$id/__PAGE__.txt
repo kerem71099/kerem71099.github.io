@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3c97u9ajw00oy.js"
+3:"/_next/static/chunks/1_qf2x9jt9eed.js"
+4:I[74614,["$2","$3"],"ServiceWorker"]
+5:I[49830,["$2","$3"],"AppShell"]
+6:I[39756,["$2","$3"],"default"]
+7:I[37457,["$2","$3"],"default"]
+10:"/_next/static/chunks/0jk1obglp15kf.js"
+11:"/_next/static/chunks/22trwtunk9xc8.js"
+12:I[93255,["$2","$3","$10","$11"],"FasikulReader"]
+13:I[97367,["$2","$3"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:I[27201,["$2","$3"],"IconMark"]
+:HL["/_next/static/chunks/2zbend55mg37w.css","style"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"fasikul":{"grade":10,"id":"10-beden-e38","subject":"beden","no":137,"unit":"Spor Kültürü","title":"Spor Kültürü ve Tarihi","minutes":7,"summary":"Spor ve toplum.","sections":[{"heading":"Kültür","body":"Olimpiyatlar antik Yunan'da başlamıştır. Modern olimpiyatlar 1896'da Atina'da düzenlenmiştir."}],"notes":["Spor barış ve kardeşlik aracıdır."],"questions":[{"id":"10-beden-e38-q1","text":"Modern olimpiyatlar hangi yılda başlamıştır?","options":["1800","1950","1923","1896"],"answer":3,"explanation":"İlk modern olimpiyat 1896'dır.","difficulty":"kolay"},{"id":"10-beden-e38-q2","text":"İlk modern olimpiyatlar nerede yapılmıştır?","options":["Paris","Londra","Roma","Atina"],"answer":3,"explanation":"Atina'da yapılmıştır.","difficulty":"orta"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0jk1obglp15kf.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/22trwtunk9xc8.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"id","t":"d","k":"10-beden-e38","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"fasikuller","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2zbend55mg37w.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3c97u9ajw00oy.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1_qf2x9jt9eed.js","async":true}]],["$","html",null,{"lang":"tr","className":"vrJ_tW_variable O7MSFG_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem(\"kivilcim:theme\");var d=t?t===\"dark\":matchMedia(\"(prefers-color-scheme: dark)\").matches;if(d)document.documentElement.classList.add(\"dark\")}catch(e){}})()"}}]}],["$","body",null,{"children":[["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fff8ee","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#171226","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kıvılcım | Ders Çalışma ve Sınav Asistanı"}],["$","meta","1",{"name":"description","content":"1-12. sınıflar için serili, rozetli ve eğlenceli ders çalışma asistanı."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"Kıvılcım"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","6",{"rel":"icon","href":"/icons/icon-192.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png"}],["$","$L1b","8",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$9"}},"a":"$@1d","u":"$@1e","b":"WXGqQopAloKzMuTpLjz6X"}
+15:null
+9:300
+1e:true
+9:C
+1d:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+1c:"$undefined"
+16:"$undefined"

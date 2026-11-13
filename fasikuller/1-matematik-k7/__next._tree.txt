@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/2zbend55mg37w.css","style"]
+:HL["/_next/static/media/106680e3cb941a97-s.p.0dpkqgqz79smb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4686f7842ee651e2-s.p.2zp15__9k16__.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/648e19a466ec92f1-s.p.2demiz2t05dx4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"1-matematik-k7","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"fasikuller","h":96,"c":"$Q2"}]]
+0:{"b":"WXGqQopAloKzMuTpLjz6X","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
